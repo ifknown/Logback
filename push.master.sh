@@ -23,6 +23,13 @@ echo "commit to git@github.com ..."
 git push github master
 echo "Congratulations!"
 echo "commit to git@github.com completed and no err"
+echo "\n"
+echo "\n"
+echo "\n"
+echo "\n"
+
+
+
 
 
 #-------------------------------------------------------------------------------
