@@ -19,7 +19,10 @@
 # the command is: `git remote add github git@github.com:<your-repository>.git`
 # Warning, you should not execute `git push -u <remote> <branch>`
 
+echo "commit to git@github.com ..."
 git push github master
+echo "Congratulations!"
+echo "commit to git@github.com completed and no err"
 
 
 #-------------------------------------------------------------------------------
@@ -29,4 +32,8 @@ git push github master
 # the command is: `git remote add github git@github.com:<your-repository>.git`
 # Warning, you should not execute `git push -u <remote> <branch>`
 
+echo "commit to git@gitLab.com ..."
 git push gitlab master
+echo "Congratulations!"
+echo "commit to git@gitLab.com completed and no err"
+
