@@ -24,9 +24,6 @@ git push github master
 echo "Congratulations!"
 echo "commit to git@github.com completed and no err"
 echo -e "\n"
-echo -e "\n"
-echo -e "\n"
-echo -e "\n"
 
 
 #-------------------------------------------------------------------------------
